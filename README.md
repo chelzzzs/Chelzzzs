@@ -16,7 +16,12 @@
 </div>
 
 <br/>
+<br/> 
+
+![Image](https://github.com/user-attachments/assets/871ab49a-fbdf-42cd-8996-765d43f52a7e)
+
 <br/>
+<br/> 
 
 ### 📊 Estatísticas
 
@@ -37,4 +42,6 @@
   />
 
 </p>
+
+
 
