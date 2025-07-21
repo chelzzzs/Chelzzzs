@@ -1,7 +1,10 @@
 ## Olá! Eu sou o Michel! 
 - 🔭 Atualmente estou procurando estágio na área de desenvolvimento e programação 
 - 🌱 Estou estudando Python e Java
-- 💬 Contato por e-mail: michelzulszeski@gmail.com
+- 💬 Contato por e-mail: michelzulszeski@gmail.com <div align="right">
+<img src="https://github.com/user-attachments/assets/871ab49a-fbdf-42cd-8996-765d43f52a7e" width="400px" />
+</div>
+
 
   <div style="display: inline_block"><br>
   <img align="center" alt="chel-Js" height="30" width="40" src=https://img.shields.io/badge/Java-ED8B00?style>
@@ -16,12 +19,6 @@
 </div>
 
 <br/>
-<br/> 
-
-![Image](https://github.com/user-attachments/assets/871ab49a-fbdf-42cd-8996-765d43f52a7e)
-
-<br/>
-<br/> 
 
 ### 📊 Estatísticas
 
