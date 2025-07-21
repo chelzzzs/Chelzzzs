@@ -1,4 +1,4 @@
-## Olá! Eu sou o Chelzzzs! 
+## Olá! Eu sou o Michel! 
 - 🔭 Atualmente estou procurando estágio na área de desenvolvimento e programação 
 - 🌱 Estou estudando Python e Java
 - 💬 Contato por e-mail: michelzulszeski@gmail.com
