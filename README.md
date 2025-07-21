@@ -2,7 +2,7 @@
 - 🔭 Atualmente estou procurando estágio na área de desenvolvimento e programação 
 - 🌱 Estou estudando Python e Java
 - 💬 Contato por e-mail: michelzulszeski@gmail.com <div align="right">
-<img src="https://github.com/user-attachments/assets/871ab49a-fbdf-42cd-8996-765d43f52a7e" width="400px" />
+<img src="https://github.com/user-attachments/assets/67f37d4d-4faa-42f0-84f7-d2ff55d10f34" width="450px" />
 </div>
 
 
@@ -11,7 +11,7 @@
 
   <img align="center" alt="chel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+<br/>
 <div> 
   <a href = "mailto:michelzulszeski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/michel-zulszeski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
