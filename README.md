@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Michel! 
-- 🔭 Atualmente estou procurando estágio ou oportunidade como Back End Junior na área de desenvolvimento e programação 
+- 🔭 Atualmente estou procurando estágio ou oportunidade na área de desenvolvimento e programação 
 - 🌱 Projetos em Python e Java
 - 💬 Contato por e-mail: michelzulszeski@gmail.com <div align="right">
 <img src="https://github.com/user-attachments/assets/67f37d4d-4faa-42f0-84f7-d2ff55d10f34" width="350px" />
