@@ -8,7 +8,7 @@
   <img src="https://github.com/user-attachments/assets/67f37d4d-4faa-42f0-84f7-d2ff55d10f34" width="350px" />
 </div>
 
-## 🛠 Tecnologias e Linguagens
+## Tecnologias e Linguagens
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -23,7 +23,7 @@
 
 <br/>
 
-## 📫 Conecte-se comigo
+## Conecte-se comigo
 
 <div> 
   <a href="mailto:michelzulszeski@gmail.com">
@@ -37,7 +37,7 @@
 <br/>
 
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Chelzzzs&theme=tokyonight" alt="GitHub Streak" />
