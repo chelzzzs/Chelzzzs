@@ -1,6 +1,6 @@
 # Olá! Eu sou o Michel! 
 
--  **Atualmente:** Estagiário na área de TI e estudante de Análise e Desenvolvimento de Sistemas.
+-  **Atualmente:** Estagiário na área de TI no Grupo MED4U e estudante de Análise e Desenvolvimento de Sistemas.
 -  **Foco:** Buscando evolução contínua em desenvolvimento de software.
 -  **Contato:** [michelzulszeski@gmail.com](mailto:michelzulszeski@gmail.com)
 
@@ -13,6 +13,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" alt="Go" />
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
