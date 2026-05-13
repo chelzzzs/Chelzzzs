@@ -1,6 +1,6 @@
 # Olá! Eu sou o Michel! 
 
--  **Atualmente:** Estagiário na área de TI no Grupo MED4U e estudante de Análise e Desenvolvimento de Sistemas.
+-  **Atualmente:** Grupo MED4U e estudante de Análise e Desenvolvimento de Sistemas.
 -  **Foco:** Buscando evolução contínua em desenvolvimento de software.
 -  **Contato:** [michelzulszeski@gmail.com](mailto:michelzulszeski@gmail.com)
 
