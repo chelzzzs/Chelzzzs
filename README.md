@@ -45,5 +45,5 @@
 <div align="left">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Chelzzzs&theme=tokyonight" alt="GitHub Streak" />
   &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chelzzzs&layout=compact&theme=tokyonight&locale=pt-br" alt="Top Langs" />
+
 </div>
