@@ -2,7 +2,7 @@
 
 -  **Atualmente:** Grupo MED4U e estudante de Análise e Desenvolvimento de Sistemas.
 -  **Foco:** Buscando evolução contínua em desenvolvimento de software.
--  **Contato:** [michelzulszeski@gmail.com](mailto:michelzulszeski@gmail.com)
+
 
 <div align="right">
   <img src="https://github.com/user-attachments/assets/67f37d4d-4faa-42f0-84f7-d2ff55d10f34" width="350px" />
