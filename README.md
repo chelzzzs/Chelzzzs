@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:00ADD8&text=Michel%20Zulszeski&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Grupo%20MED4U&descAlignY=58&descSize=16" width="100%" alt="Michel Zulszeski" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=00ADD8&center=true&vCenter=true&width=520&lines=Go+%7C+Python+%7C+TypeScript;Microservi%C3%A7os%2C+APIs+e+interfaces+web;Sempre+construindo+algo+novo" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=700&color=00ADD8&center=true&vCenter=true&width=520&lines=Golang;TypeScript;React;UI+Engineering;Microsservi%C3%A7os;gRPC;SQL" alt="Typing SVG" /></a>
 
 <a href="https://www.linkedin.com/in/michel-zulszeski/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:michelzulszeski@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
