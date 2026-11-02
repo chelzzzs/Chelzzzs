@@ -31,6 +31,8 @@
 
 ### Atividade
 
+<img src="https://raw.githubusercontent.com/chelzzzs/Chelzzzs/output/languages.svg" width="100%" alt="Linguagens mais usadas" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chelzzzs/Chelzzzs/output/snake-dark.svg" />
   <img src="https://raw.githubusercontent.com/chelzzzs/Chelzzzs/output/snake.svg" width="100%" alt="Gráfico de contribuições" />
