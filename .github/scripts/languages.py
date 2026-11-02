@@ -1,4 +1,4 @@
-"""Gera um SVG com a porcentagem de cada linguagem nos repositórios públicos do usuário."""
+"""Generates an SVG with the share of each language across the user's public repositories."""
 
 import json
 import os
@@ -11,7 +11,7 @@ TOKEN = os.environ.get("GITHUB_TOKEN", "")
 OUT = sys.argv[1] if len(sys.argv) > 1 else "languages.svg"
 TOP = 8
 
-# Cores do GitHub Linguist
+# GitHub Linguist colors
 COLORS = {
     "Go": "#00ADD8", "Python": "#3572A5", "TypeScript": "#3178C6", "JavaScript": "#F1E05A",
     "Java": "#B07219", "Astro": "#FF5A03", "HTML": "#E34C26", "CSS": "#663399",
@@ -52,7 +52,7 @@ def render(totals):
     items = [(name, size / total * 100, COLORS.get(name, OTHER)) for name, size in ranked[:TOP]]
     rest = sum(size for _, size in ranked[TOP:])
     if rest:
-        items.append(("Outras", rest / total * 100, OTHER))
+        items.append(("Other", rest / total * 100, OTHER))
 
     width, pad, bar_y, bar_h = 800, 24, 56, 10
     row_h, cols = 30, 2
@@ -78,7 +78,7 @@ def render(totals):
             f'<text x="{lx + col_w - 24}" y="{ly}" class="pct" text-anchor="end">{pct:.1f}%</text>'
         )
 
-    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="Linguagens mais usadas">
+    return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="Most used languages">
 <style>
   .card {{ fill: #ffffff; stroke: #d0d7de; }}
   .title {{ fill: #1f2328; font: 600 18px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; }}
@@ -91,7 +91,7 @@ def render(totals):
   }}
 </style>
 <rect class="card" x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" rx="10"/>
-<text x="{pad}" y="36" class="title">Linguagens mais usadas</text>
+<text x="{pad}" y="36" class="title">Most used languages</text>
 <clipPath id="bar"><rect x="{pad}" y="{bar_y}" width="{inner}" height="{bar_h}" rx="5"/></clipPath>
 <g clip-path="url(#bar)">{''.join(segs)}</g>
 {''.join(legend)}

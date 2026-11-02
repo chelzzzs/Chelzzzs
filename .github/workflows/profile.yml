@@ -1,4 +1,4 @@
-name: Gráficos do perfil
+name: Profile charts
 
 on:
   schedule:
@@ -17,8 +17,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Antes do snk, que roda como root e deixa dist/ sem escrita pro runner
-      - name: Linguagens
+      # Runs before snk, which runs as root and leaves dist/ unwritable for the runner
+      - name: Languages
         run: python .github/scripts/languages.py dist/languages.svg
         env:
           GITHUB_USER: ${{ github.repository_owner }}
